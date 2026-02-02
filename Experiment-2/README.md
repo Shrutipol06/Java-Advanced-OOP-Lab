@@ -4,16 +4,16 @@
 To implement Java programs using classes, methods, static members, stack, queue, and string operations.
 
 ##Programs Included  
-Area of rectangle using class and methods  
-Demonstration of static variables, static blocks, and static methods  
-Stack and Queue implementation using arrays  
-Sorting 10 names in alphabetical order  
+1.Area of rectangle using class and methods  
+2.Demonstration of static variables, static blocks, and static methods  
+3.Stack and Queue implementation using arrays  
+4.Sorting 10 names in alphabetical order  
 
 ##Tools Used  
-Java  
-JDK  
-VS Code  
-Command Line  
+-Java  
+-JDK  
+-VS Code  
+-Command Line  
 
 ##Learning Outcome  
 - Learned creation of classes and objects  
