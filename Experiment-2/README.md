@@ -1,21 +1,21 @@
-Experiment 2: Object Oriented Programming and Data Structures in Java
+#Experiment 2: Object Oriented Programming and Data Structures in Java
 
-Aim  
+##Aim  
 To implement Java programs using classes, methods, static members, stack, queue, and string operations.
 
-Programs Included  
+##Programs Included  
 Area of rectangle using class and methods  
 Demonstration of static variables, static blocks, and static methods  
 Stack and Queue implementation using arrays  
 Sorting 10 names in alphabetical order  
 
-Tools Used  
+##Tools Used  
 Java  
 JDK  
 VS Code  
 Command Line  
 
-Learning Outcome  
+##Learning Outcome  
 - Learned creation of classes and objects  
 - Understood and used static variables, static blocks, and static methods  
 - Implemented stack (LIFO) and queue (FIFO) using arrays  
