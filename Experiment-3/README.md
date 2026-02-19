@@ -73,4 +73,14 @@ Concept Used: Multilevel Inheritance
 - Command Prompt / Terminal or any Java IDE
 
 ---
+## 🎓 Learning Outcomes
+After completing this project, the following concepts are understood:
+
+- Understanding of Object-Oriented Programming principles
+- Knowledge of different types of inheritance in Java
+- Ability to implement method overriding
+- Understanding of abstract classes and methods
+- Ability to design class hierarchies
+- Implementation of real-world problem statements using Java
+- Improved programming and problem-solving skills
 
