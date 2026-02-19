@@ -1,6 +1,6 @@
-# 📘 Java Inheritance Programs
 
-## 📌 Project Title
+
+## Experiment no: 3
 Implementation of Different Types of Inheritance in Java
 
 ---
