@@ -20,7 +20,7 @@ To implement given problem statements demonstrating different types of inheritan
 - Created subclass `SavingsAccount`
 - Overrides withdraw() to maintain minimum balance of 100.
 
-File Name: BankTest.java  
+  
 Concept Used: Single Inheritance, Method Overriding
 
 ---
@@ -36,7 +36,7 @@ Concept Used: Single Inheritance, Method Overriding
   - Performance report generation
   - Project management
 
-File Name: CompanyTest.java  
+ 
 Concept Used: Hierarchical Inheritance
 
 ---
@@ -50,7 +50,7 @@ Concept Used: Hierarchical Inheritance
   - Triangle
 - Calculates area of shapes.
 
-File Name: ShapeTest.java  
+
 Concept Used: Abstraction, Inheritance
 
 ---
@@ -63,14 +63,9 @@ Concept Used: Abstraction, Inheritance
   - Stores subject marks
   - Calculates total result
 
-File Name: StudentTest.java  
 Concept Used: Multilevel Inheritance
 
----
 
-## ⚙️ Requirements
-- Java JDK installed
-- Command Prompt / Terminal or any Java IDE
 
 ---
 ## Tools Used
