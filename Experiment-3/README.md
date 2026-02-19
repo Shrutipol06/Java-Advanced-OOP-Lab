@@ -1,18 +1,18 @@
 
 
-## Experiment no: 3
-Implementation of Different Types of Inheritance in Java
+## Experiment 3:Implementation of Different Types of Inheritance in Java
+
 
 ---
 
-## 🎯 Aim
+##  Aim
 To implement given problem statements demonstrating different types of inheritance concepts in Java.
 
 ---
 
-## 💻 Programs Included
+##  Programs Included
 
-### ✅ 1. BankAccount and SavingsAccount (Method Overriding)
+###  1. BankAccount and SavingsAccount (Method Overriding)
 - Created a base class `BankAccount`
 - Methods:
   - deposit()
@@ -25,7 +25,7 @@ Concept Used: Single Inheritance, Method Overriding
 
 ---
 
-### ✅ 2. Employee Class Hierarchy
+###  2. Employee Class Hierarchy
 - Base class: Employee
 - Subclasses:
   - Manager
@@ -41,7 +41,7 @@ Concept Used: Hierarchical Inheritance
 
 ---
 
-### ✅ 3. Abstract Shape Class (Rectangle & Triangle)
+###  3. Abstract Shape Class (Rectangle & Triangle)
 - Abstract class Shape with:
   - dim1 and dim2 variables
   - abstract area() method
@@ -55,7 +55,7 @@ Concept Used: Abstraction, Inheritance
 
 ---
 
-### ✅ 4. Multilevel Inheritance (Student → Test → Result)
+###  4. Multilevel Inheritance (Student → Test → Result)
 - Class hierarchy:
   Student → Test → Result
 - Features:
@@ -75,7 +75,7 @@ Concept Used: Multilevel Inheritance
 - Command Line
 
 ---
-## 🎓 Learning Outcomes
+## Learning Outcomes
 After completing this project, the following concepts are understood:
 
 - Understanding of Object-Oriented Programming principles
