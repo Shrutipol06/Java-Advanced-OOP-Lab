@@ -1,4 +1,4 @@
-# Experiment 5: Java I/O Streams and GUI using Swing
+# Experiment 8: Java I/O Streams and GUI using Swing
 
 ## Aim
 To implement various input/output operations using Java I/O Streams and to develop basic GUI applications using Swing.
