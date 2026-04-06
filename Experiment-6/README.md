@@ -1,4 +1,4 @@
-# Experiment 5: Java I/O Streams and GUI using Swing
+# Experiment 6: Java I/O Streams and GUI using Swing
 
 ## Aim
 
