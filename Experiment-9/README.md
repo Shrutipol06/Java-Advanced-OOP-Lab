@@ -1,4 +1,4 @@
-# Experiment 8: GUI using Swing Components and IDE
+# Experiment 9: GUI using Swing Components and IDE
 
 ## Aim
 To design GUI applications using Java Swing components and implement them in IntelliJ IDEA.
